@@ -1,6 +1,7 @@
 # a way to play with strings
 # by Richard Kain, Python NOOB v.1 Jan 17 2015
 # what if I change text at github.com will it sync back?
+#test 2
 
 import time
 import random
