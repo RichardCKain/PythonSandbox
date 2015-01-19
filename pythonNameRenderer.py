@@ -43,7 +43,7 @@ def waterfall(name):
     #width = len(name)*3 # if I want to constrain river
     startingPoint = 1
     for i in range(100):
-        time.sleep(.25)
+        time.sleep(.15)
         print " " * startingPoint + name
         startingPoint += random.randint(-1,2)
         if startingPoint < 0:
